@@ -1,0 +1,170 @@
+{
+    "bookmarkDisplayMode": 1,
+    "lists": {
+        "Air Band": {
+            "bookmarks": {
+                "Adelaide ACARS": {
+                    "bandwidth": 15000.0,
+                    "frequency": 131550000.0,
+                    "mode": 2
+                },
+                "Adelaide ATIS": {
+                    "bandwidth": 15000.0,
+                    "frequency": 134500000.0,
+                    "mode": 2
+                },
+                "Adelaide Approach - East of Adelaide": {
+                    "bandwidth": 15000.0,
+                    "frequency": 118200000.0,
+                    "mode": 2
+                },
+                "Adelaide Approach - North of Adelaide": {
+                    "bandwidth": 15000.0,
+                    "frequency": 128600000.0,
+                    "mode": 2
+                },
+                "Adelaide Approach - West of Adelaide": {
+                    "bandwidth": 15000.0,
+                    "frequency": 124200000.0,
+                    "mode": 2
+                },
+                "Adelaide Centre": {
+                    "bandwidth": 15000.0,
+                    "frequency": 130450000.0,
+                    "mode": 2
+                },
+                "Adelaide DME": {
+                    "bandwidth": 15000.0,
+                    "frequency": 116400000.0,
+                    "mode": 2
+                },
+                "Adelaide Ground": {
+                    "bandwidth": 15000.0,
+                    "frequency": 121700000.0,
+                    "mode": 2
+                },
+                "Adelaide ILS Localiser": {
+                    "bandwidth": 15000.0,
+                    "frequency": 109700000.0,
+                    "mode": 2
+                },
+                "Adelaide Tower": {
+                    "bandwidth": 15000.0,
+                    "frequency": 120500000.0,
+                    "mode": 2
+                },
+                "Aldinga": {
+                    "bandwidth": 15000.0,
+                    "frequency": 127150000.0,
+                    "mode": 2
+                },
+                "Edinburgh Tower - MBZ": {
+                    "bandwidth": 15000.0,
+                    "frequency": 118300000.0,
+                    "mode": 2
+                },
+                "Gawler": {
+                    "bandwidth": 15000.0,
+                    "frequency": 126550000.0,
+                    "mode": 2
+                },
+                "General Frequency": {
+                    "bandwidth": 15000.0,
+                    "frequency": 126700000.0,
+                    "mode": 2
+                },
+                "Parafield ATIS": {
+                    "bandwidth": 15000.0,
+                    "frequency": 120900000.0,
+                    "mode": 2
+                },
+                "Parafield Ground SMC": {
+                    "bandwidth": 15000.0,
+                    "frequency": 119900000.0,
+                    "mode": 2
+                },
+                "Parafield Tower East": {
+                    "bandwidth": 15000.0,
+                    "frequency": 118700000.0,
+                    "mode": 2
+                },
+                "Parafield Tower West": {
+                    "bandwidth": 15000.0,
+                    "frequency": 124600000.0,
+                    "mode": 2
+                }
+            },
+            "showOnWaterfall": true
+        },
+        "FM Broadcast": {
+            "bookmarks": {
+                "1079 Life": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 107900000.0,
+                    "mode": 1
+                },
+                "5EDI Multicultural Radio": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 103100000.0,
+                    "mode": 1
+                },
+                "5UV Radio Adelaide ": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 101500000.0,
+                    "mode": 1
+                },
+                "ABC Classic": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 103900000.0,
+                    "mode": 1
+                },
+                "ABC Triple J": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 105500000.0,
+                    "mode": 1
+                },
+                "Fresh 92.7": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 92700000.0,
+                    "mode": 1
+                },
+                "Mix 102.3": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 102300000.0,
+                    "mode": 1
+                },
+                "Nova 919": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 91900000.0,
+                    "mode": 1
+                },
+                "SAFM": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 107100000.0,
+                    "mode": 1
+                },
+                "SBS Radio": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 106300000.0,
+                    "mode": 1
+                },
+                "Three D Radio": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 93700000.0,
+                    "mode": 1
+                },
+                "Triple M Adelaide": {
+                    "bandwidth": 224298.0625,
+                    "frequency": 104700000.0,
+                    "mode": 1
+                }
+            },
+            "showOnWaterfall": true
+        },
+        "General": {
+            "bookmarks": {},
+            "showOnWaterfall": false
+        }
+    },
+    "selectedList": "FM Broadcast"
+}
